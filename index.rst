@@ -1,6 +1,10 @@
 How to Download Quicken After Purchase – Complete Activation Guide for Existing Users
 =====================================================================================
 
+.. image:: get.png
+   :alt: quicken download
+   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+
 Have you recently purchased Quicken and now need to download and activate it? Whether you made your purchase through the official Quicken website, a retail outlet, or a third-party reseller like Amazon or Best Buy, this step-by-step guide will walk you through everything—from logging in to setting up your software correctly on both Windows and Mac.
 
 Quicken is a leading personal finance solution trusted by individuals and small business owners. Whether you're reinstalling it or using it for the first time, this guide will help you download Quicken after purchase, activate it, and begin managing your finances efficiently.
