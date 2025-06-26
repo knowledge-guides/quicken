@@ -3,7 +3,7 @@ How to Download Quicken After Purchase – Complete Activation Guide for Existin
 
 .. image:: get.png
    :alt: quicken download
-   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://fm.ci?aHR0cHM6Ly9xdWlja2VuLWhlbHBkZXNrLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 Have you recently purchased Quicken and now need to download and activate it? Whether you made your purchase through the official Quicken website, a retail outlet, or a third-party reseller like Amazon or Best Buy, this step-by-step guide will walk you through everything—from logging in to setting up your software correctly on both Windows and Mac.
 
